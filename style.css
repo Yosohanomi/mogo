@@ -1,0 +1,8 @@
+:root {
+    --logo-color: #95E1D3;
+    --main-text-color: #B6B6B6;
+    --title-color: #333;
+}
+.logo {
+    color: var(--logo-color);
+}
